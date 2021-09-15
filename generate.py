@@ -6,7 +6,7 @@ nameid = "Gosdan-Movsesian"
 
 repoid = "Gosdan"
 
-yamlid = "app-run"
+yamlid = "App-Run"
 
 f = open("./README.md", "w")
 
