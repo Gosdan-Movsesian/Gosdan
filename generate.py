@@ -2,9 +2,9 @@ import json, random, time, socket, platform
 
 timestr = time.strftime("%Y-%m-%d - %H:%M:%S UTC")
 
-nameid = "Afua"
+nameid = "Gosdan-Movsesian"
 
-repoid = "App-Run"
+repoid = "Gosdan"
 
 yamlid = "app-run"
 
