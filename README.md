@@ -4,7 +4,7 @@
 
 ```bash
 
-2022-07-21 - 03:49:09 UTC
+2022-07-22 - 03:57:12 UTC
 
 ```
 
@@ -12,11 +12,11 @@
 
 ```bash
 
-Host Name : fv-az41-992
+Host Name : fv-az318-388
 
-platform  : Linux-5.4.0-1086-azure-x86_64-with-glibc2.27
+platform  : Linux-5.15.0-1014-azure-x86_64-with-glibc2.31
 
-Ip Local  : 10.1.0.7
+Ip Local  : 10.1.0.131
 
 ```
 #### Download This code Here:
